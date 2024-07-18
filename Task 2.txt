@@ -1,0 +1,13 @@
+Your next task is to 
+
+Develop a school management portal by using ASP.NET WebForms and SQL.
+
+Features:
+
+Student Management: CRUD operations.
+Teacher Management: Assignments,schedules.
+Admin Panel: Role-based access, user management, reporting.
+Security: Authentication, input validation.
+UI/UX: Intuitive interface, responsive design.
+
+

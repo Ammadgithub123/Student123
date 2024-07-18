@@ -1,0 +1,491 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\rolebasedaccess.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\rolebasedaccess.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\schedule1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\schedule1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\teacher management.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\teacher management.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\rolebasedaccess.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\rolebasedaccess.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\students.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\students.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\students.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\students.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|e:\\asp.net projects\\school management portal task 2\\school management portal\\school management portal\\inputvalidation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\inputvalidation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\inputvalidation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\inputvalidation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\inputvalidation.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\inputvalidation.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\security123register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\security123register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\security123register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\security123register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\login12.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\login12.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\schedule1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\schedule1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\assignment1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\assignment1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\usermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\usermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\reporting.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\reporting.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\reporting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\reporting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\assignment1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\assignment1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\teacher management.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\teacher management.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\usermanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\usermanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\aspnetrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\aspnetrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\login12.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\login12.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\identityresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\identityresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\startup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\startup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\identityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5263D38-33B1-4D83-94AB-886E656B1920}|school management portal\\school management portal.csproj|solutionrelative:school management portal\\identityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Security123Register.aspx.cs",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Security123Register.aspx.cs",
+              "RelativeDocumentMoniker": "school management portal\\Security123Register.aspx.cs",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Security123Register.aspx.cs",
+              "RelativeToolTip": "school management portal\\Security123Register.aspx.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAowCwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:28:36.037Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Security123Register.aspx",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Security123Register.aspx",
+              "RelativeDocumentMoniker": "school management portal\\Security123Register.aspx",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Security123Register.aspx",
+              "RelativeToolTip": "school management portal\\Security123Register.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-15T16:32:09.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Admin.aspx",
+              "RelativeDocumentMoniker": "school management portal\\Admin.aspx",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Admin.aspx",
+              "RelativeToolTip": "school management portal\\Admin.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-07T19:00:31.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Schedule1.aspx",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Schedule1.aspx",
+              "RelativeDocumentMoniker": "school management portal\\Schedule1.aspx",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Schedule1.aspx",
+              "RelativeToolTip": "school management portal\\Schedule1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-06T19:41:36.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Students.aspx",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Students.aspx",
+              "RelativeDocumentMoniker": "school management portal\\Students.aspx",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Students.aspx",
+              "RelativeToolTip": "school management portal\\Students.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-24T08:00:31.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Schedule1.aspx.cs",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Schedule1.aspx.cs",
+              "RelativeDocumentMoniker": "school management portal\\Schedule1.aspx.cs",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Schedule1.aspx.cs",
+              "RelativeToolTip": "school management portal\\Schedule1.aspx.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:32:38.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher Management.aspx",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Teacher Management.aspx",
+              "RelativeDocumentMoniker": "school management portal\\Teacher Management.aspx",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Teacher Management.aspx",
+              "RelativeToolTip": "school management portal\\Teacher Management.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-25T12:09:59.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Admin.aspx.cs",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Admin.aspx.cs",
+              "RelativeDocumentMoniker": "school management portal\\Admin.aspx.cs",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Admin.aspx.cs",
+              "RelativeToolTip": "school management portal\\Admin.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:02:10.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleBasedAccess.aspx",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\RoleBasedAccess.aspx",
+              "RelativeDocumentMoniker": "school management portal\\RoleBasedAccess.aspx",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\RoleBasedAccess.aspx",
+              "RelativeToolTip": "school management portal\\RoleBasedAccess.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-28T11:06:14.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Teacher Management.aspx.cs",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Teacher Management.aspx.cs",
+              "RelativeDocumentMoniker": "school management portal\\Teacher Management.aspx.cs",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Teacher Management.aspx.cs",
+              "RelativeToolTip": "school management portal\\Teacher Management.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:12:57.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleBasedAccess.aspx.cs",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\RoleBasedAccess.aspx.cs",
+              "RelativeDocumentMoniker": "school management portal\\RoleBasedAccess.aspx.cs",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\RoleBasedAccess.aspx.cs",
+              "RelativeToolTip": "school management portal\\RoleBasedAccess.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:38:47.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserManagement.aspx.cs",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\UserManagement.aspx.cs",
+              "RelativeDocumentMoniker": "school management portal\\UserManagement.aspx.cs",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\UserManagement.aspx.cs",
+              "RelativeToolTip": "school management portal\\UserManagement.aspx.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAABAwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:37:10.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserManagement.aspx",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\UserManagement.aspx",
+              "RelativeDocumentMoniker": "school management portal\\UserManagement.aspx",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\UserManagement.aspx",
+              "RelativeToolTip": "school management portal\\UserManagement.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-28T16:00:42.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Assignment1.aspx",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Assignment1.aspx",
+              "RelativeDocumentMoniker": "school management portal\\Assignment1.aspx",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Assignment1.aspx",
+              "RelativeToolTip": "school management portal\\Assignment1.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-06T19:47:00.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Reporting.aspx",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Reporting.aspx",
+              "RelativeDocumentMoniker": "school management portal\\Reporting.aspx",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Reporting.aspx",
+              "RelativeToolTip": "school management portal\\Reporting.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-06T19:30:56.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Reporting.aspx.cs",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Reporting.aspx.cs",
+              "RelativeDocumentMoniker": "school management portal\\Reporting.aspx.cs",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Reporting.aspx.cs",
+              "RelativeToolTip": "school management portal\\Reporting.aspx.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:41:42.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Assignment1.aspx.cs",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Assignment1.aspx.cs",
+              "RelativeDocumentMoniker": "school management portal\\Assignment1.aspx.cs",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Assignment1.aspx.cs",
+              "RelativeToolTip": "school management portal\\Assignment1.aspx.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwDgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T19:20:39.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\packages.config",
+              "RelativeDocumentMoniker": "school management portal\\packages.config",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\packages.config",
+              "RelativeToolTip": "school management portal\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-06T19:33:15.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AspNetRole.cs",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\AspNetRole.cs",
+              "RelativeDocumentMoniker": "school management portal\\AspNetRole.cs",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\AspNetRole.cs",
+              "RelativeToolTip": "school management portal\\AspNetRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T18:05:02.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "inputvalidation.aspx",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\inputvalidation.aspx",
+              "RelativeDocumentMoniker": "school management portal\\inputvalidation.aspx",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\inputvalidation.aspx",
+              "RelativeToolTip": "school management portal\\inputvalidation.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-29T11:03:47.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login12.aspx",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Login12.aspx",
+              "RelativeDocumentMoniker": "school management portal\\Login12.aspx",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Login12.aspx",
+              "RelativeToolTip": "school management portal\\Login12.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-29T10:30:10.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login12.aspx.cs",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Login12.aspx.cs",
+              "RelativeDocumentMoniker": "school management portal\\Login12.aspx.cs",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Login12.aspx.cs",
+              "RelativeToolTip": "school management portal\\Login12.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAIAxwCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:46:28.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Students.aspx.cs",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Students.aspx.cs",
+              "RelativeDocumentMoniker": "school management portal\\Students.aspx.cs",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Students.aspx.cs",
+              "RelativeToolTip": "school management portal\\Students.aspx.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAhwC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:01:25.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IdentityResult.cs",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\IdentityResult.cs",
+              "RelativeDocumentMoniker": "school management portal\\IdentityResult.cs",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\IdentityResult.cs",
+              "RelativeToolTip": "school management portal\\IdentityResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:24:14.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "inputvalidation.aspx.cs",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\inputvalidation.aspx.cs",
+              "RelativeDocumentMoniker": "school management portal\\inputvalidation.aspx.cs",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\inputvalidation.aspx.cs",
+              "RelativeToolTip": "school management portal\\inputvalidation.aspx.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T11:10:46.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Startup1.cs",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Startup1.cs",
+              "RelativeDocumentMoniker": "school management portal\\Startup1.cs",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\Startup1.cs",
+              "RelativeToolTip": "school management portal\\Startup1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:05:29.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "inputvalidation.aspx.designer.cs",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\inputvalidation.aspx.designer.cs",
+              "RelativeDocumentMoniker": "school management portal\\inputvalidation.aspx.designer.cs",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\inputvalidation.aspx.designer.cs",
+              "RelativeToolTip": "school management portal\\inputvalidation.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:25:06.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IdentityUser.cs",
+              "DocumentMoniker": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\IdentityUser.cs",
+              "RelativeDocumentMoniker": "school management portal\\IdentityUser.cs",
+              "ToolTip": "E:\\ASP.Net Projects\\school management portal Task 2\\school management portal\\school management portal\\IdentityUser.cs",
+              "RelativeToolTip": "school management portal\\IdentityUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T11:35:07.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
